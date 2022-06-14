@@ -2,6 +2,8 @@
 
 A browser extension to improve your Nitro Type experience.
 
+[Chrome Extension](https://chrome.google.com/webstore/detail/accelerant/ieocjnbdnegbhepiolingifnacbfhcia) - [Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/accelerant)
+
 ## Features
 
 - 👜 Feature rich, with options such as:
