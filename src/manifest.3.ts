@@ -17,9 +17,8 @@ export async function getManifest() {
 		permissions: [
 			'storage',
 			'declarativeNetRequest',
-			'declarativeNetRequestWithHostAccess',
 		],
-		host_permissions: ['https://*/*'],
+		host_permissions: ['https://*.nitrotype.com/*'],
 		web_accessible_resources: [
 			{
 				resources: webAccessibleResources,
