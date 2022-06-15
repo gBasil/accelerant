@@ -52,6 +52,8 @@ yarn start:firefox
 
 ### Building
 
+Note that building will override the previous build, meaning you have to build and pack for both versions separately. (e.g. building & packing MV3 before building & packing MV2)
+
 ```bash
 # Build for Manifest V3
 yarn mv3:build
