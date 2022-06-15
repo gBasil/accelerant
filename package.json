@@ -2,7 +2,7 @@
 	"name": "accelerant",
 	"displayName": "Accelerant",
 	"description": "A browser extension to improve your Nitro Type experience",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"private": true,
 	"license": "GPL-3.0-only",
 	"repository": {

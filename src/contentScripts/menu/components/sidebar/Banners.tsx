@@ -12,8 +12,8 @@ const Banners = () => (
 		</P>
 
 		<P subdued>
-			When uploading a banner, it must be a PNG image with a width of 334
-			pixels and a height of 65 pixels. You can downscale it after you
+			When uploading a banner, it must be a PNG image with a width of 650
+			pixels and a height of 130 pixels. You can downscale it after you
 			design it.
 		</P>
 

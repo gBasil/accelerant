@@ -144,6 +144,10 @@ $gray-dark: #393c50;
 		> button {
 			@include button;
 		}
+
+		> a {
+			text-decoration: none;
+		}
 	}
 
 	.a-sidebar-content {
